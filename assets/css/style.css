@@ -2362,7 +2362,7 @@ hr {
     margin-bottom: 20px;
 }
 .slider-area .hero__caption h1 {
-    font-size: 65px;
+    font-size: 62px;
     font-weight: 700;
     color: #fff;
     font-family: "Oswald", sans-serif;
@@ -5935,7 +5935,7 @@ img-logo {
 }
 
 .slider-bg-img{
-    background-image: url('E:/Dev-pro/stockmarketjourney/assets/img/banner/img.png');
+    background-image: url('E:/Dev-pro/stockmarketjourney/assets/img/banner/img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
