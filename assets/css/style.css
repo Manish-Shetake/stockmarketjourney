@@ -3561,6 +3561,7 @@ form.search-box .search-form a {
 .blogs-area .single-blogs .blog-img img {
     border-radius: 6px;
     width: 100%;
+    height: 300px;
 }
 .blogs-area .single-blogs .blog-cap {
     padding: 29px 20px 20px 31px;
@@ -5934,8 +5935,19 @@ img-logo {
     height: 100%;
 }
 
-.slider-bg-img{
-    background-image: url('E:/Dev-pro/stockmarketjourney/assets/img/banner/img.jpg');
+.slider-bg-img {
+    background-image: url(../img/banner/img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.aim-section{
+    padding-top : 30px;
+    padding-bottom:30px;
+}
+.bs-desc{
+    margin-top: 20px;
+}
+.rs-blog-details .bs-desc {
+    margin-top: 20px;
 }
